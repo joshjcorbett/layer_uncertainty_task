@@ -1,5 +1,5 @@
 # layer_uncertainty_task
-PsychoPy code for running the orientation judgement task used in a study of the representation of uncertainty across cortical layers.
+PsychoPy code (and other relevant files) for running the orientation judgement task used in a study investigating the representation of uncertainty across cortical layers.
 
 ## General structure
 The main experiment file is ‘fmri_ori_task.psyexp’ in the ‘scripts’ directory. This file was generated using the PsychoPy Builder (v2022.2.4).
