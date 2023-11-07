@@ -1,4 +1,4 @@
-## Help
+# Help
 This experiment was created using the PsychoPy3 Experiment Builder (v2022.2.4), to be run on a Windows PC.
 
 ## Mac error workaround 
